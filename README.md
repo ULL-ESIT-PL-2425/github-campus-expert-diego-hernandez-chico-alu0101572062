@@ -1,17 +1,18 @@
-[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=17907102)
 # Github Campus Expert 
+## Práctica 1.
+### Datos del autor:
 
-- Nombre 
-- Apellidos 
-- aluXXXX
+* **Nombre**: Diego
+* **Apellidos**: Hernández Chico
+* **Identificador**: alu0101572062
 
 ## Rellenar el cuestionario GitHub-Alu del campus virtual y recibir el correo confirmándolo
 
-![correo de confirmacion del cuestionario](docs/correo_cuestionario.png)
+![correo cuestionario realizado](docs/cuestionario_realizado.png)
 
 ## Crear equipo con nombre correcto
 
-![equipo](docs/equipo.png)
+![equipo](docs/equipo_creado.png)
 
 ## Crear un project board kanban para este repositorio
 
@@ -19,4 +20,4 @@
 
 ## Solicitar el GitHub Backpack
 
-![github backpack](docs/backpack.png)
+![github backpack](docs/global_campus.png)
